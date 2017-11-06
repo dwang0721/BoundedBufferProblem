@@ -1,4 +1,4 @@
-TARGETS= Ass2
+TARGETS= Bbuffer
 
 CC_C = gcc
 
